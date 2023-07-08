@@ -4,6 +4,7 @@ nav {
     font-family: 'Belanosima', sans-serif;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 .nav-title{
     color: #181818;
@@ -33,4 +34,18 @@ nav a{
     font-weight: 700;
     color: #FFF;
     padding: 15px 30px;
+}
+.header{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    /* width: 1600px;
+    height: 837px; */
+    display: flex;
+    align-items: center;
+}
+.banner .banner-profile{
+    width: 584px;
+    height: 676px;
 }
