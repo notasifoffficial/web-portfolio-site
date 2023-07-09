@@ -84,7 +84,7 @@ nav a{
     font-size: 35px;
 }
 .section-description{
-    color: var(--dark-03, #757575);
+    color:#757575;
     text-align: center;
     font-size: 18px;
 }
@@ -148,4 +148,31 @@ footer{
     display: flex;
     background: #FFF8F3;
     padding: 130px 200px;
+}
+.section-title{
+    display: flex;
+}
+.footer-description{
+    color:#757575;
+    font-size: 18px;
+    display: flex;
+    width: 562px;
+}
+input, textarea{
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #FFF;
+    border: 0;
+    width: 100%;
+}
+.contact input{
+    width: 461px;
+    height: 64px;
+}
+.Social-Links{
+    position: absolute;
+    background-position: bottom;
+    align-items: start;
 }
