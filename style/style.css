@@ -37,7 +37,6 @@ nav a{
     font-weight: 700;
     color: #FFF;
     padding: 15px 30px;
-
     margin-top: 10px;
 }
 .header{
@@ -148,6 +147,7 @@ footer{
     display: flex;
     background: #FFF8F3;
     padding: 130px 200px;
+    margin-top: 40px;
 }
 .section-title{
     display: flex;
@@ -176,7 +176,7 @@ input, textarea{
     background-position: bottom;
     align-items: start;
 }
-#Primary-Button{
+.Submit-Button{
     border-radius: 5px;
     background: #FD6E0A;
     border: none;
